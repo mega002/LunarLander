@@ -1,0 +1,249 @@
+/usr/bin/python2.7 /home/mega/Documents/adv_ml/adv_ex4/adv_ml4.py
+[2017-06-02 07:41:00,797] Making new env: LunarLander-v2
+2017-06-02 07:41:00.929776: W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use SSE4.1 instructions, but these are available on your machine and could speed up CPU computations.
+2017-06-02 07:41:00.929792: W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use SSE4.2 instructions, but these are available on your machine and could speed up CPU computations.
+2017-06-02 07:41:00.929795: W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use AVX instructions, but these are available on your machine and could speed up CPU computations.
+2017-06-02 07:41:00.929798: W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use AVX2 instructions, but these are available on your machine and could speed up CPU computations.
+2017-06-02 07:41:00.929804: W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use FMA instructions, but these are available on your machine and could speed up CPU computations.
+episode 5 avg.T 79.80 pcnt.rests 0.00 avg.reward -454.1814 - best so far!
+episode 10 avg.T 89.40 pcnt.rests 0.00 avg.reward -452.5633 - best so far!
+episode 40 avg.T 81.00 pcnt.rests 0.00 avg.reward -442.0915 - best so far!
+episode 45 avg.T 74.20 pcnt.rests 0.00 avg.reward -431.2392 - best so far!
+episode 50 avg.T 94.80 pcnt.rests 0.00 avg.reward -428.4085 - best so far!
+episode 50 avg.T 94.80 pcnt.rests 0.00 avg.reward -428.4085
+episode 60 avg.T 82.20 pcnt.rests 0.00 avg.reward -369.3428 - best so far!
+episode 70 avg.T 89.20 pcnt.rests 0.00 avg.reward -363.5747 - best so far!
+episode 100 avg.T 87.00 pcnt.rests 0.00 avg.reward -438.2938
+episode 140 avg.T 63.00 pcnt.rests 0.00 avg.reward -249.6321 - best so far!
+episode 150 avg.T 64.60 pcnt.rests 0.00 avg.reward -406.6615
+episode 200 avg.T 69.20 pcnt.rests 0.00 avg.reward -724.9144
+episode 250 avg.T 72.00 pcnt.rests 0.00 avg.reward -328.3809
+episode 285 avg.T 67.80 pcnt.rests 0.00 avg.reward -212.3483 - best so far!
+episode 295 avg.T 74.60 pcnt.rests 0.00 avg.reward -209.3776 - best so far!
+episode 300 avg.T 79.00 pcnt.rests 0.00 avg.reward -175.9223 - best so far!
+episode 300 avg.T 79.00 pcnt.rests 0.00 avg.reward -175.9223
+episode 320 avg.T 58.20 pcnt.rests 0.00 avg.reward -154.6009 - best so far!
+episode 350 avg.T 64.20 pcnt.rests 0.00 avg.reward -189.9925
+episode 400 avg.T 70.00 pcnt.rests 0.00 avg.reward -170.8488
+episode 430 avg.T 67.80 pcnt.rests 0.00 avg.reward -126.0355 - best so far!
+episode 450 avg.T 89.60 pcnt.rests 0.00 avg.reward -297.3853
+episode 500 avg.T 65.80 pcnt.rests 0.00 avg.reward -213.3347
+episode 550 avg.T 228.20 pcnt.rests 0.00 avg.reward -261.7284
+episode 600 avg.T 96.60 pcnt.rests 0.00 avg.reward -585.5801
+episode 650 avg.T 81.40 pcnt.rests 0.00 avg.reward -203.5918
+episode 700 avg.T 60.20 pcnt.rests 0.00 avg.reward -153.8098
+episode 750 avg.T 77.20 pcnt.rests 0.00 avg.reward -180.1348
+episode 800 avg.T 71.80 pcnt.rests 0.00 avg.reward -210.8934
+episode 850 avg.T 67.40 pcnt.rests 0.00 avg.reward -197.3619
+episode 900 avg.T 71.80 pcnt.rests 0.00 avg.reward -201.4212
+episode 950 avg.T 68.20 pcnt.rests 0.00 avg.reward -178.8025
+episode 1000 avg.T 69.40 pcnt.rests 0.00 avg.reward -174.7436
+episode 1050 avg.T 71.40 pcnt.rests 0.00 avg.reward -222.3114
+episode 1100 avg.T 68.80 pcnt.rests 0.00 avg.reward -185.3468
+episode 1150 avg.T 113.80 pcnt.rests 0.00 avg.reward -222.8459
+episode 1200 avg.T 182.60 pcnt.rests 0.00 avg.reward -209.8786
+episode 1220 avg.T 356.80 pcnt.rests 0.00 avg.reward -94.5257 - best so far!
+episode 1250 avg.T 223.40 pcnt.rests 0.00 avg.reward -177.3493
+episode 1300 avg.T 105.40 pcnt.rests 0.00 avg.reward -205.0182
+episode 1320 avg.T 376.40 pcnt.rests 0.20 avg.reward -36.2051 - best so far!
+episode 1325 avg.T 457.40 pcnt.rests 0.60 avg.reward -9.4852 - best so far!
+episode 1350 avg.T 147.00 pcnt.rests 0.00 avg.reward -105.5800
+episode 1400 avg.T 161.20 pcnt.rests 0.00 avg.reward -173.1474
+episode 1450 avg.T 179.40 pcnt.rests 0.00 avg.reward -187.1898
+episode 1500 avg.T 339.00 pcnt.rests 0.00 avg.reward -232.8746
+episode 1550 avg.T 192.40 pcnt.rests 0.00 avg.reward -421.7253
+episode 1600 avg.T 187.80 pcnt.rests 0.00 avg.reward -262.1807
+episode 1650 avg.T 118.40 pcnt.rests 0.00 avg.reward -319.0354
+episode 1700 avg.T 230.00 pcnt.rests 0.00 avg.reward -217.7371
+episode 1750 avg.T 1000.00 pcnt.rests 0.00 avg.reward -120.1958
+episode 1800 avg.T 1000.00 pcnt.rests 0.00 avg.reward -125.0755
+episode 1850 avg.T 1000.00 pcnt.rests 0.00 avg.reward -103.8407
+episode 1865 avg.T 892.20 pcnt.rests 0.40 avg.reward 62.7778 - best so far!
+episode 1880 avg.T 678.20 pcnt.rests 0.80 avg.reward 109.8410 - best so far!
+episode 1900 avg.T 807.60 pcnt.rests 0.20 avg.reward 41.4229
+episode 1950 avg.T 286.00 pcnt.rests 0.00 avg.reward -193.5450
+episode 2000 avg.T 198.40 pcnt.rests 0.00 avg.reward -235.3212
+episode 2050 avg.T 386.80 pcnt.rests 0.00 avg.reward -170.5506
+episode 2100 avg.T 419.60 pcnt.rests 0.20 avg.reward -159.4963
+episode 2150 avg.T 1000.00 pcnt.rests 0.00 avg.reward -74.4287
+episode 2200 avg.T 1000.00 pcnt.rests 0.00 avg.reward -88.3108
+episode 2250 avg.T 1000.00 pcnt.rests 0.00 avg.reward -132.5218
+episode 2300 avg.T 1000.00 pcnt.rests 0.00 avg.reward -79.9499
+episode 2350 avg.T 1000.00 pcnt.rests 0.00 avg.reward -147.4798
+episode 2400 avg.T 1000.00 pcnt.rests 0.00 avg.reward -116.1682
+episode 2450 avg.T 1000.00 pcnt.rests 0.00 avg.reward -127.2515
+episode 2500 avg.T 1000.00 pcnt.rests 0.00 avg.reward -120.2048
+episode 2550 avg.T 1000.00 pcnt.rests 0.00 avg.reward -93.0607
+episode 2600 avg.T 857.20 pcnt.rests 0.00 avg.reward -135.1086
+episode 2650 avg.T 741.20 pcnt.rests 0.00 avg.reward -435.3473
+episode 2700 avg.T 245.60 pcnt.rests 0.00 avg.reward -235.9570
+episode 2750 avg.T 455.40 pcnt.rests 0.00 avg.reward -237.7797
+episode 2800 avg.T 365.00 pcnt.rests 0.00 avg.reward -369.6798
+episode 2850 avg.T 320.00 pcnt.rests 0.00 avg.reward -349.4487
+episode 2900 avg.T 275.00 pcnt.rests 0.00 avg.reward -229.3348
+episode 2950 avg.T 244.60 pcnt.rests 0.00 avg.reward -344.9390
+episode 3000 avg.T 316.20 pcnt.rests 0.00 avg.reward -211.1059
+episode 3050 avg.T 216.40 pcnt.rests 0.00 avg.reward -293.0820
+episode 3100 avg.T 197.60 pcnt.rests 0.00 avg.reward -266.1219
+episode 3150 avg.T 274.60 pcnt.rests 0.00 avg.reward -198.7208
+episode 3200 avg.T 353.20 pcnt.rests 0.00 avg.reward -117.0402
+episode 3250 avg.T 217.20 pcnt.rests 0.00 avg.reward -137.7623
+episode 3300 avg.T 194.20 pcnt.rests 0.00 avg.reward -298.0074
+episode 3350 avg.T 200.60 pcnt.rests 0.00 avg.reward -228.3108
+episode 3400 avg.T 156.40 pcnt.rests 0.00 avg.reward -253.3537
+episode 3450 avg.T 147.80 pcnt.rests 0.00 avg.reward -268.1595
+episode 3500 avg.T 146.40 pcnt.rests 0.00 avg.reward -508.7175
+episode 3550 avg.T 120.80 pcnt.rests 0.00 avg.reward -290.5123
+episode 3600 avg.T 94.80 pcnt.rests 0.00 avg.reward -239.2532
+episode 3650 avg.T 114.00 pcnt.rests 0.00 avg.reward -300.5200
+episode 3700 avg.T 163.80 pcnt.rests 0.00 avg.reward -221.2157
+episode 3750 avg.T 175.60 pcnt.rests 0.00 avg.reward -183.8668
+episode 3800 avg.T 181.80 pcnt.rests 0.00 avg.reward -318.3126
+episode 3850 avg.T 231.40 pcnt.rests 0.00 avg.reward -254.7828
+episode 3900 avg.T 256.40 pcnt.rests 0.00 avg.reward -354.3583
+episode 3950 avg.T 295.80 pcnt.rests 0.00 avg.reward -399.6562
+episode 4000 avg.T 151.00 pcnt.rests 0.00 avg.reward -334.3206
+episode 4050 avg.T 113.60 pcnt.rests 0.00 avg.reward -413.4667
+episode 4100 avg.T 103.40 pcnt.rests 0.00 avg.reward -358.7522
+episode 4150 avg.T 132.00 pcnt.rests 0.00 avg.reward -218.2693
+episode 4200 avg.T 169.60 pcnt.rests 0.00 avg.reward -244.8466
+episode 4250 avg.T 190.20 pcnt.rests 0.00 avg.reward -231.9120
+episode 4300 avg.T 163.00 pcnt.rests 0.00 avg.reward -222.6125
+episode 4350 avg.T 113.20 pcnt.rests 0.00 avg.reward -287.4720
+episode 4400 avg.T 144.40 pcnt.rests 0.00 avg.reward -295.7134
+episode 4450 avg.T 152.00 pcnt.rests 0.00 avg.reward -241.7355
+episode 4500 avg.T 181.60 pcnt.rests 0.00 avg.reward -245.6074
+episode 4550 avg.T 144.20 pcnt.rests 0.00 avg.reward -237.8955
+episode 4600 avg.T 147.60 pcnt.rests 0.00 avg.reward -267.6088
+episode 4650 avg.T 150.20 pcnt.rests 0.00 avg.reward -227.9599
+episode 4700 avg.T 135.80 pcnt.rests 0.00 avg.reward -245.9667
+episode 4750 avg.T 208.40 pcnt.rests 0.00 avg.reward -333.5641
+episode 4800 avg.T 177.80 pcnt.rests 0.00 avg.reward -251.2448
+episode 4850 avg.T 160.60 pcnt.rests 0.00 avg.reward -248.3781
+episode 4900 avg.T 162.60 pcnt.rests 0.00 avg.reward -259.2673
+episode 4950 avg.T 181.60 pcnt.rests 0.00 avg.reward -272.2913
+episode 5000 avg.T 158.00 pcnt.rests 0.00 avg.reward -239.3041
+episode 5050 avg.T 176.80 pcnt.rests 0.00 avg.reward -234.6815
+episode 5100 avg.T 173.40 pcnt.rests 0.00 avg.reward -262.9654
+episode 5150 avg.T 171.40 pcnt.rests 0.00 avg.reward -266.5441
+episode 5200 avg.T 171.60 pcnt.rests 0.00 avg.reward -327.5542
+episode 5250 avg.T 195.40 pcnt.rests 0.00 avg.reward -392.8830
+episode 5300 avg.T 338.40 pcnt.rests 0.00 avg.reward -275.5989
+episode 5350 avg.T 265.40 pcnt.rests 0.00 avg.reward -286.7811
+episode 5400 avg.T 869.80 pcnt.rests 0.00 avg.reward -169.1621
+episode 5450 avg.T 399.00 pcnt.rests 0.00 avg.reward -199.3460
+episode 5500 avg.T 1000.00 pcnt.rests 0.00 avg.reward -161.2942
+episode 5550 avg.T 1000.00 pcnt.rests 0.00 avg.reward -84.3634
+episode 5600 avg.T 391.60 pcnt.rests 0.00 avg.reward -153.7705
+episode 5650 avg.T 556.00 pcnt.rests 0.20 avg.reward -93.8191
+episode 5695 avg.T 667.40 pcnt.rests 0.80 avg.reward 124.2905 - best so far!
+episode 5700 avg.T 721.40 pcnt.rests 0.60 avg.reward 38.2756
+episode 5730 avg.T 577.00 pcnt.rests 0.80 avg.reward 163.5978 - best so far!
+episode 5750 avg.T 491.00 pcnt.rests 0.60 avg.reward 63.8542
+episode 5800 avg.T 447.80 pcnt.rests 0.40 avg.reward 4.4629
+episode 5850 avg.T 283.20 pcnt.rests 0.00 avg.reward -97.5834
+episode 5900 avg.T 285.00 pcnt.rests 0.20 avg.reward -63.1857
+episode 5950 avg.T 212.60 pcnt.rests 0.00 avg.reward -73.3158
+episode 6000 avg.T 229.80 pcnt.rests 0.00 avg.reward -148.9050
+episode 6050 avg.T 367.20 pcnt.rests 0.00 avg.reward -173.5762
+episode 6100 avg.T 395.00 pcnt.rests 0.00 avg.reward -224.0124
+episode 6150 avg.T 203.40 pcnt.rests 0.00 avg.reward -93.5168
+episode 6200 avg.T 213.60 pcnt.rests 0.00 avg.reward -208.9358
+episode 6250 avg.T 227.20 pcnt.rests 0.00 avg.reward -204.9369
+episode 6300 avg.T 222.80 pcnt.rests 0.00 avg.reward -213.1467
+episode 6350 avg.T 235.80 pcnt.rests 0.00 avg.reward -289.4494
+episode 6400 avg.T 181.00 pcnt.rests 0.00 avg.reward -262.6495
+episode 6450 avg.T 137.20 pcnt.rests 0.00 avg.reward -259.5145
+episode 6500 avg.T 165.80 pcnt.rests 0.00 avg.reward -260.8143
+episode 6550 avg.T 248.20 pcnt.rests 0.00 avg.reward -285.7589
+episode 6600 avg.T 299.00 pcnt.rests 0.00 avg.reward -216.1067
+episode 6650 avg.T 277.40 pcnt.rests 0.00 avg.reward -211.6833
+episode 6700 avg.T 263.80 pcnt.rests 0.00 avg.reward -223.4539
+episode 6750 avg.T 338.40 pcnt.rests 0.00 avg.reward -273.6148
+episode 6800 avg.T 207.20 pcnt.rests 0.00 avg.reward -268.7791
+episode 6850 avg.T 166.20 pcnt.rests 0.00 avg.reward -246.3777
+episode 6900 avg.T 190.80 pcnt.rests 0.00 avg.reward -292.9624
+episode 6950 avg.T 139.00 pcnt.rests 0.00 avg.reward -280.6347
+episode 7000 avg.T 158.80 pcnt.rests 0.00 avg.reward -345.5457
+episode 7050 avg.T 192.20 pcnt.rests 0.00 avg.reward -285.0529
+episode 7100 avg.T 237.60 pcnt.rests 0.00 avg.reward -267.8920
+episode 7150 avg.T 159.20 pcnt.rests 0.00 avg.reward -243.3267
+episode 7200 avg.T 181.60 pcnt.rests 0.00 avg.reward -318.2266
+episode 7250 avg.T 521.40 pcnt.rests 0.00 avg.reward -211.4256
+episode 7300 avg.T 182.80 pcnt.rests 0.00 avg.reward -256.7663
+episode 7350 avg.T 1000.00 pcnt.rests 0.00 avg.reward -153.8287
+episode 7400 avg.T 410.20 pcnt.rests 0.00 avg.reward -157.5624
+episode 7450 avg.T 649.80 pcnt.rests 0.60 avg.reward 5.7497
+episode 7500 avg.T 898.60 pcnt.rests 0.20 avg.reward -71.6644
+episode 7550 avg.T 1000.00 pcnt.rests 0.00 avg.reward -157.6190
+episode 7600 avg.T 623.00 pcnt.rests 0.00 avg.reward -193.6456
+episode 7650 avg.T 268.20 pcnt.rests 0.00 avg.reward -180.4968
+episode 7700 avg.T 168.80 pcnt.rests 0.00 avg.reward -367.3297
+episode 7750 avg.T 495.60 pcnt.rests 0.00 avg.reward -376.8593
+episode 7800 avg.T 345.60 pcnt.rests 0.00 avg.reward -206.5582
+episode 7850 avg.T 485.20 pcnt.rests 0.40 avg.reward -173.3979
+episode 7900 avg.T 306.80 pcnt.rests 0.00 avg.reward -143.5740
+episode 7950 avg.T 376.20 pcnt.rests 0.00 avg.reward -215.9952
+episode 8000 avg.T 138.00 pcnt.rests 0.00 avg.reward -182.1100
+episode 8050 avg.T 836.20 pcnt.rests 0.00 avg.reward -137.1835
+episode 8100 avg.T 867.00 pcnt.rests 0.00 avg.reward -191.2112
+episode 8150 avg.T 338.20 pcnt.rests 0.00 avg.reward -198.2193
+episode 8200 avg.T 293.20 pcnt.rests 0.00 avg.reward -263.3904
+episode 8250 avg.T 305.80 pcnt.rests 0.00 avg.reward -240.8429
+episode 8300 avg.T 547.60 pcnt.rests 0.00 avg.reward -180.2789
+episode 8350 avg.T 376.00 pcnt.rests 0.00 avg.reward -238.9412
+episode 8400 avg.T 256.00 pcnt.rests 0.00 avg.reward -188.7998
+episode 8450 avg.T 162.60 pcnt.rests 0.00 avg.reward -244.9028
+episode 8500 avg.T 378.60 pcnt.rests 0.00 avg.reward -183.4928
+episode 8550 avg.T 205.80 pcnt.rests 0.00 avg.reward -193.3373
+episode 8600 avg.T 257.00 pcnt.rests 0.00 avg.reward -197.0965
+episode 8650 avg.T 194.20 pcnt.rests 0.00 avg.reward -188.0109
+episode 8700 avg.T 195.00 pcnt.rests 0.00 avg.reward -193.2988
+episode 8750 avg.T 226.00 pcnt.rests 0.00 avg.reward -208.2110
+episode 8800 avg.T 227.60 pcnt.rests 0.00 avg.reward -235.0135
+episode 8850 avg.T 246.20 pcnt.rests 0.00 avg.reward -192.3730
+episode 8900 avg.T 574.00 pcnt.rests 0.00 avg.reward -197.9134
+episode 8950 avg.T 453.00 pcnt.rests 0.00 avg.reward -217.5623
+episode 9000 avg.T 506.80 pcnt.rests 0.00 avg.reward -174.1282
+episode 9050 avg.T 1000.00 pcnt.rests 0.00 avg.reward -161.2653
+episode 9100 avg.T 767.40 pcnt.rests 0.00 avg.reward -150.1492
+episode 9150 avg.T 552.00 pcnt.rests 0.00 avg.reward -234.8448
+episode 9200 avg.T 743.40 pcnt.rests 0.00 avg.reward -169.2915
+episode 9250 avg.T 347.00 pcnt.rests 0.00 avg.reward -163.3087
+episode 9300 avg.T 824.40 pcnt.rests 0.00 avg.reward -157.6818
+episode 9350 avg.T 296.60 pcnt.rests 0.00 avg.reward -185.7272
+episode 9400 avg.T 817.20 pcnt.rests 0.00 avg.reward -156.2560
+episode 9450 avg.T 699.40 pcnt.rests 0.00 avg.reward -169.9377
+episode 9500 avg.T 1000.00 pcnt.rests 0.00 avg.reward -155.7683
+episode 9550 avg.T 545.80 pcnt.rests 0.00 avg.reward -157.2265
+episode 9600 avg.T 458.00 pcnt.rests 0.00 avg.reward -158.1939
+episode 9650 avg.T 663.60 pcnt.rests 0.00 avg.reward -168.9508
+episode 9700 avg.T 528.20 pcnt.rests 0.00 avg.reward -184.2496
+episode 9750 avg.T 566.00 pcnt.rests 0.00 avg.reward -165.3074
+episode 9800 avg.T 1000.00 pcnt.rests 0.00 avg.reward -156.6726
+episode 9850 avg.T 637.00 pcnt.rests 0.00 avg.reward -199.0369
+episode 9900 avg.T 661.80 pcnt.rests 0.00 avg.reward -151.1145
+episode 9950 avg.T 361.60 pcnt.rests 0.00 avg.reward -195.2734
+episode 10000 avg.T 472.40 pcnt.rests 0.00 avg.reward -192.8986
+episode 10050 avg.T 910.60 pcnt.rests 0.00 avg.reward -155.0967
+Traceback (most recent call last):
+  File "/home/mega/Documents/adv_ml/adv_ex4/adv_ml4.py", line 179, in <module>
+    tf.app.run()
+  File "/home/mega/.local/lib/python2.7/site-packages/tensorflow/python/platform/app.py", line 48, in run
+    _sys.exit(main(_sys.argv[:1] + flags_passthrough))
+  File "/home/mega/Documents/adv_ml/adv_ex4/adv_ml4.py", line 128, in main
+    obsrv, reward, done, info = env.step(action)
+  File "/usr/local/lib/python2.7/dist-packages/gym/core.py", line 99, in step
+    return self._step(action)
+  File "/usr/local/lib/python2.7/dist-packages/gym/wrappers/time_limit.py", line 36, in _step
+    observation, reward, done, info = self.env.step(action)
+  File "/usr/local/lib/python2.7/dist-packages/gym/core.py", line 99, in step
+    return self._step(action)
+  File "/usr/local/lib/python2.7/dist-packages/gym/envs/box2d/lunar_lander.py", line 277, in _step
+    self.world.Step(1.0/FPS, 6*30, 2*30)
+  File "/usr/local/lib/python2.7/dist-packages/gym/envs/box2d/lunar_lander.py", line 62, in BeginContact
+    def BeginContact(self, contact):
+KeyboardInterrupt
+
+Process finished with exit code 1
+
